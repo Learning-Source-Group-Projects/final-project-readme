@@ -1,9 +1,9 @@
-# final-project-readme
+# group-project-readme
 
   - Information students must include for their Final Project on the README
   - Final Demonstration Requirements
 
-## Final Project Is Here!! 
+## Group Project Is Here!! 
 
 
 # DEMO THE PROJECT (Minimum Elements to Demonstrate/Describe)
@@ -27,7 +27,7 @@
   - What do you need to work on before FINAL DEMO on Saturday? -Thank the audience
 - **Add Practice Demo Video to Slack Channel**
 
-# FINAL CAPSTONE PROJECT README.md (Minimum Requirements)
+# FINAL GROUP PROJECT README.md (Minimum Requirements)
 
 - DEMO VIDEO (Add Video to repo)
 - Final Deploy URL Link (Add Url to repo)
